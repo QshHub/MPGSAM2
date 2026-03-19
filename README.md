@@ -7,7 +7,7 @@
 ![image text](https://github.com/QshHub/MPGSAM2/blob/main/MPGSAM2_V_T.jpg)
 
 # Requirements
-python 3.10 + pytorch 2.1.1 + CUDA 12.2 
+python 3.10 + pytorch 2.1.1 + CUDA 12.2 <p>
 Download SAM2_Prepth from:[SAM2_Prepth](https://pan.baidu.com/s/1KracyOKkF_Qx2IOpBi-Lcg)(code:3bqx) 
 
 # Model Weights and Experimental Results Diagram
